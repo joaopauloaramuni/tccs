@@ -1,2 +1,2 @@
-# tccs-orientados
-Repo TCCs Orientados
+# tccs
+Repo TCCs
