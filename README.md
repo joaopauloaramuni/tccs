@@ -1,9 +1,9 @@
 # tccs
 Repo TCCs
 
-Orientações e supervisões concluídas
+**Orientações e supervisões concluídas**
 
-Trabalho de conclusão de curso de graduação
+**Trabalho de conclusão de curso de graduação**
 
 1. Paulo Henrique Ribeiro Alves. Aplicação de Técnicas da Visão Computacional para Análise de Imagens em Jogos de Futebol: Prototipação de Algoritmo com Aprendizagem de Máquina através da Biblioteca TensorFlow. 2020. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade FUMEC. Orientador: João Paulo Carneiro Aramuni.
 
@@ -67,13 +67,13 @@ Trabalho de conclusão de curso de graduação
 
 31. Gabriel Barbosa Rocha e Matheus Velloso Oliveira Sá. Proposta de Modelo de Gamificação para Coleta de Garrafas PET e Latas de Alumínio em Redes de Supermercado de Belo Horizonte. 2017. Trabalho de Conclusão de Curso. (Graduação em Ciência da Computação) - Universidade FUMEC. Orientador: João Paulo Carneiro Aramuni.
 
-Participação em bancas de trabalhos de conclusão
+**Participação em bancas de trabalhos de conclusão**
 
-Mestrado
+**Mestrado**
 
 1. MAIA, L. C. G.; PARREIRAS, F. S.; ARAMUNI, J. P. C.; BRANDAO, W. C.. Participação em banca de Lucas Romualdo Fernandes de Sá. Mineração de Emoções em Textos: Um Estudo Aplicado Sobre as Interações de Programadores em Comunidade On-line de Perguntas e Respostas. 2018.
 
-Trabalhos de conclusão de curso de graduação
+**Trabalhos de conclusão de curso de graduação**
 
 1. Nobre, C. N.; Jesus, A. C. C.; ARAMUNI, J. P. C.. Participação em banca de Gabriel Alves Costa Nardy.Tecnologias Persuasivas para o Cuidado de Crianças e Adolescentes com TDAH: Engajando Pais e Filhos em um Aplicativo de Suporte e Acompanhamento. 2024. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Pontifícia Universidade Católica de Minas Gerais.
 
